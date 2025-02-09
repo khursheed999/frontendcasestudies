@@ -1,0 +1,16 @@
+.document{
+    height: 1000px
+}
+.NoData{
+    height: 80vh;
+}
+@media (max-width:500px){
+.document{
+    height: 1000px;
+
+}
+.NoData{
+    height: 60vh;
+}
+
+}
